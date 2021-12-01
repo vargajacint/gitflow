@@ -1,1 +1,1 @@
-this is the first feature. Updated from feature/first
+this is the first featurE. Updated from feature/first Rewrited on the release/1.0.0
