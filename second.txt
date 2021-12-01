@@ -1,1 +1,2 @@
 this is the first feature on the feature/second branch
+this line added by release/2.0.0
