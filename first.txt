@@ -1,2 +1,3 @@
 this is the first feature. Updated from feature/first
 Okey, so this is a new line, meanwhile the hotfix/first branch updated this row
+Again it's a new line, meanwhile the hotfix/first branch merged into the develop
