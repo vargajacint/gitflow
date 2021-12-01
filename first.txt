@@ -1,2 +1,4 @@
 this is the first featurEH. Rewrited on the release/1.0.0. This is a hotfix change
 This line added hotfix/first
+Okey, so this is a new line, meanwhile the hotfix/first branch updated this row
+Again it's a new line, meanwhile the hotfix/first branch merged into the develop
