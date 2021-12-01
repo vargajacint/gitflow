@@ -2,7 +2,9 @@ this is the first feature on the feature/second branch.UPDATE
 So this is a brand new line, while the release/2.0.0 updated this line.this line added by release/2.0.0
 
 
-
+this line added by hotfix/second
 
 
 This line is untouched
+
+
